@@ -1,0 +1,1 @@
+export { TestimonialsWrapperByAnima } from "./TestimonialsWrapperByAnima";
